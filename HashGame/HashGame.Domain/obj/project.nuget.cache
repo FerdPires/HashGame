@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUuYECbys1UZjAC2UgzT7LPQSLlJjQExSC+ha1l9v8gwhgKzm7aWGIDr2QmHp+5gtdKXcrvAOf4XgAdH67d+5g==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Desafio DTI\\HashGame\\HashGame.Domain\\HashGame.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fernanda\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Fernanda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Fernanda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

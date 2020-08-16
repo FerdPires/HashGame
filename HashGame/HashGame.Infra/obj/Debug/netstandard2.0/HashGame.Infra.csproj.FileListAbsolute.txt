@@ -1,0 +1,12 @@
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\bin\Debug\netstandard2.0\HashGame.Infra.deps.json
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\bin\Debug\netstandard2.0\HashGame.Infra.dll
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\bin\Debug\netstandard2.0\HashGame.Infra.pdb
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.csprojAssemblyReference.cache
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.AssemblyInfoInputs.cache
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.AssemblyInfo.cs
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.csproj.CoreCompileInputs.cache
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.dll
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.pdb
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\bin\Debug\netstandard2.0\HashGame.Domain.dll
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\bin\Debug\netstandard2.0\HashGame.Domain.pdb
+D:\Projetos\Desafio DTI\HashGame\HashGame.Infra\obj\Debug\netstandard2.0\HashGame.Infra.csproj.CopyComplete
