@@ -34,4 +34,5 @@ Exemplo de input:
 
 # 
 Essa api foi desenvolvida em ASP.NET CORE 3.1 utilizando o padrão CQRS. Esse padrão irá segregar a API em leitura e escrita, utilizando na parte de domínio conceitos como commands, handlres e queries. Outros conceitos importantêntes utilizados na API foram repositories, domain notifications, desing by contracts, SOLID e clean code.
+Utiliza banco de dados em memória.
 
