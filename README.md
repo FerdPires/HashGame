@@ -3,20 +3,22 @@
 Api para um Jogo da Velha multiplayer.
 
 ### Antes de rodar a Api a primeira vez:
+Dentro de .\HashGame>
 ```
-.\HashGame> dotnet restore
+dotnet restore
 ```
 
 ### Para executar:
+Dentro de .\HashGame\HashGame.Api>
 ```
-.\HashGame\HashGame.Api> dotnet run
+dotnet run
 ```
 
 #### Rota da chamada de criar um novo jogo:
-v1/hashgame/new-game
+/v1/hashgame/new-game
 
 #### Rota da chamada para fazer um movimento no jogo:
-v1/hashgame/make-movement
+/v1/hashgame/make-movement
 
 Exemplo de input:
 ```
